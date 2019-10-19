@@ -4,8 +4,7 @@ title: About
 subtitle: Intra•pre•nuer, Leader, and Tech Evangelist
 permalink: /
 ---
-
-Ishan Verma is a young professional in tech industry who takes pleasure in working with startups in high growth phase. He looks at challenging problems as puzzles and takes an innovative approach to solve them while having fun in the whole process with his peers.
+Currently, leading engineering @1upHealth. While studying computer science at University of Vermont, I was involved in a research to improve discharge process and reduce cost of hosplitals by using mobile apps that utilized health care records. Having being worked at a finTech startup and using tools to connect to several banks within minutes using an API with consistent data, I saw the need of the similar mechanism in healthcare and joined 1upHealth as their 2nd Engineer. Besides work, I am is constantly involved with developer community, healthTech events, and hackathons. Recently I recently helped organize Boston Blockchain Week, mentor at MIT hacking medicine, and won ETHBoston at Harvard University among 400+ developer where I used 1upHealth API, Ethereum, and privacy preserving technology to speed up miracles in health care and helping patient participate in data sharing economy. 
 
 Interests:
 
@@ -13,14 +12,9 @@ Interests:
 -
 - Cryptocurrencies and Blockchain 
 -
-- Venture Capital/ Private Equity
+- Venture Capital/Startups
 -
 - Economics and Finance
 -
-- Building Tech Products 
--
-- History, Philosophy & Much More . . . .
--
--
 
-You can connect with him here [ishan-verma.com/contact](https://ishan-verma.com/contact)
+You can connect with me here [ishan-verma.com/contact](https://ishan-verma.com/contact)
