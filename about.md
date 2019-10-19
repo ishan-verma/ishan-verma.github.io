@@ -27,4 +27,4 @@ Tech Interest:
 - Serverless Architechture
 
 
-Happy to connect with entreprenuers, startups, developers, a [ishan-verma.com/contact](https://ishan-verma.com/contact)
+Happy to connect with entreprenuers, startups, developers, and people in general [ishan-verma.com/contact](https://ishan-verma.com/contact)
