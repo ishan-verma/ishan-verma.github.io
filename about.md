@@ -7,12 +7,6 @@ permalink: /
 Currently: 
 Engineering & Product at 1upHealth, Boston, MA. 
 
-Previously: 
-- Engineering & Consultant at CringleGmbH, Berlin, Germany
-- Fellow at Sage Corps, Berlin, Germany
-- Research at University of Vermont
-
-
 Interests:
 
 - HealthTech & FinTech
@@ -21,9 +15,9 @@ Interests:
 - Economics and Finance
 
 Tech Interest:
-- Javascript (React, Node, TS, ...)
-- Data Science (Neural Networks and Deep Learning)
-- Ethereum, Private Smart Contract,
+- Javascript 
+- Data Science & Engineering
+- Ethereum, Smart Contracts, DApp tooling, and Bitcoin
 - Serverless Architechture
 
 
