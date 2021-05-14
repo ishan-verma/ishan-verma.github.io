@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
-subtitle: Intra•pre•nuer, Leader, and Tech Evangelist
+subtitle: Crypto, HealthTech, and Code.
 permalink: /
 ---
 
-Crypto, Healthcare, and Technology Venture Enthusiast. 
+Fueled by caffeine, curiosity, & code.
 
 [ishan-verma.com/contact](https://ishan-verma.com/contact)
